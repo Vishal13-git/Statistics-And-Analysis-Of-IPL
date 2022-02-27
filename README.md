@@ -11,17 +11,17 @@ Deep Analysis of IPL tournament
 
 
 ### Dashboard Output 2
+![page 2](https://user-images.githubusercontent.com/93576343/155896015-80b6d319-d0ee-4486-9c71-b1dfb08e6013.jpg)
 
-![App Screenshot](https://raw.githubusercontent.com/Princesharma11/Visualizations-And-Analysis-Of-IPL/main/page%202.jpg)
 
 ### Dashboard Output 3
 
-![App Screenshot](https://raw.githubusercontent.com/ViShNuViSh1/Visualization-Of-IPL-Data-And-Analysis/main/page%202.jpg)
+![page 2 (1)](https://user-images.githubusercontent.com/93576343/155896056-be89461f-6dbd-4452-9778-6b15f80699ac.jpg)
+
 
 ### Dashboard Output 4
+![page3](https://user-images.githubusercontent.com/93576343/155896090-dc2332ad-971f-47cc-bf9d-f60345d7f88c.jpg)
 
-![App Screenshot](https://raw.githubusercontent.com/ViShNuViSh1/Visualization-Of-IPL-Data-And-Analysis/main/page3.jpg)
 
 ### Dashboard Output 5
-
-![App Screenshot](https://raw.githubusercontent.com/Princesharma11/Visualizations-And-Analysis-Of-IPL/main/Page%204.jpg)
+![Page 4](https://user-images.githubusercontent.com/93576343/155896106-76d199d3-85ea-4556-a881-46b6ae4976f9.jpg)
